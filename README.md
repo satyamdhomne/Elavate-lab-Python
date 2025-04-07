@@ -1,1 +1,1 @@
-# Elavate-lab-Python
+In this data cleaning process, we started by loading the marketing_campaign.csv file using the correct tab separator.We then identified and handled missing values by removing any rows that contained null entries. To ensure data consistency, we removed any duplicate rows from the dataset.Column headers were cleaned by renaming them to be lowercase. Finally at last we checked and corrected data types—converting.This method ensures the dataset is clean, consistent, and ready for analysis and visualizations.
